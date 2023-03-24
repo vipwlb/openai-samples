@@ -1,5 +1,5 @@
 {
-    "COMPLETIONS_MODEL": "<Completions Model Name>",
-    "OPENAI_API_BASE": "https://<Your Azure Resource Name>.openai.azure.com",
-    "OPENAI_API_VERSION": "<OpenAI API Version>"
+    "COMPLETIONS_MODEL":"libwei-davinci-003",
+    "OPENAI_API_BASE": "https://tryai.openai.azure.com/",
+    "OPENAI_API_VERSION": "2022-12-01"
 }
